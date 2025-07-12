@@ -1,0 +1,363 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Mushroom Soup",
+      "price": 7.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/01-mushroom-soup.jpg",
+      "description": "Creamy mushroom soup with fresh herbs and a rich flavor.",
+      "category": "Soups",
+      "cookTime": 30,
+      "ingredients": [
+        "mushrooms",
+        "onion",
+        "garlic",
+        "vegetable broth",
+        "cream",
+        "butter",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Noodle Soup",
+      "price": 6.9,
+      "image": "https://george-fx.github.io/mesio-data/dishes/02-noodle-soup.jpg",
+      "description": "Light chicken noodle soup with vegetables, perfect for any time.",
+      "category": "Soups",
+      "cookTime": 25,
+      "ingredients": [
+        "noodles",
+        "chicken broth",
+        "carrots",
+        "celery",
+        "onion",
+        "chicken",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Japanese Ramen",
+      "price": 9.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/03-japanese-ramen.jpg",
+      "description": "Classic Japanese ramen with pork, egg, and fresh toppings.",
+      "category": "Asian Soups",
+      "cookTime": 40,
+      "ingredients": [
+        "ramen noodles",
+        "pork",
+        "soy sauce",
+        "egg",
+        "nori",
+        "green onion",
+        "bamboo shoots",
+        "chicken broth"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Miso Soup",
+      "price": 5.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/04-miso-soup.jpg",
+      "description": "Traditional Japanese miso soup with tofu and seaweed.",
+      "category": "Asian Soups",
+      "cookTime": 15,
+      "ingredients": [
+        "miso paste",
+        "dashi broth",
+        "tofu",
+        "wakame seaweed",
+        "green onion"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Minestrone Soup",
+      "price": 7.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/05-minestrone-soup.jpg",
+      "description": "Hearty Italian vegetable soup with beans and pasta.",
+      "category": "Soups",
+      "cookTime": 35,
+      "ingredients": [
+        "vegetable broth",
+        "carrots",
+        "celery",
+        "onion",
+        "beans",
+        "tomatoes",
+        "pasta",
+        "zucchini",
+        "potato",
+        "olive oil"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gazpacho",
+      "price": 6.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/06-gazpacho.jpg",
+      "description": "Refreshing Spanish cold soup made from fresh vegetables.",
+      "category": "Cold Soups",
+      "cookTime": 20,
+      "ingredients": [
+        "tomatoes",
+        "cucumber",
+        "bell pepper",
+        "onion",
+        "garlic",
+        "olive oil",
+        "vinegar",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Borscht",
+      "price": 7.8,
+      "image": "https://george-fx.github.io/mesio-data/dishes/07-borscht.jpg",
+      "description": "Traditional Eastern European beet soup with cabbage and sour cream.",
+      "category": "Soups",
+      "cookTime": 50,
+      "ingredients": [
+        "beetroot",
+        "cabbage",
+        "carrots",
+        "potatoes",
+        "onion",
+        "garlic",
+        "beef broth",
+        "sour cream"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "French Onion Soup",
+      "price": 8.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/08-french-onion-soup.jpg",
+      "description": "Rich French onion soup with melted gruyere cheese and baguette.",
+      "category": "Soups",
+      "cookTime": 45,
+      "ingredients": [
+        "onions",
+        "beef broth",
+        "butter",
+        "flour",
+        "baguette",
+        "gruyere cheese",
+        "thyme"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lentil Soup",
+      "price": 6.8,
+      "image": "https://george-fx.github.io/mesio-data/dishes/09-lentil-soup.jpg",
+      "description": "Nutritious lentil soup with vegetables and spices.",
+      "category": "Soups",
+      "cookTime": 30,
+      "ingredients": [
+        "lentils",
+        "carrots",
+        "celery",
+        "onion",
+        "garlic",
+        "vegetable broth",
+        "tomatoes",
+        "olive oil"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Tom Yum Soup",
+      "price": 8.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/10-tom-yum-soup.jpg",
+      "description": "Spicy Thai soup with shrimp, mushrooms, and aromatic herbs.",
+      "category": "Asian Soups",
+      "cookTime": 30,
+      "ingredients": [
+        "shrimp",
+        "lemongrass",
+        "kaffir lime leaves",
+        "galangal",
+        "chili",
+        "fish sauce",
+        "lime juice",
+        "mushrooms",
+        "tomatoes"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Cream Soup",
+      "price": 7.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/11-cream-soup.jpg",
+      "description": "Delicate cream soup with potatoes and onions.",
+      "category": "Soups",
+      "cookTime": 25,
+      "ingredients": [
+        "vegetable broth",
+        "cream",
+        "potato",
+        "onion",
+        "butter",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chicken Soup",
+      "price": 7.2,
+      "image": "https://george-fx.github.io/mesio-data/dishes/12-chicken-soup.jpg",
+      "description": "Classic chicken soup with noodles and vegetables.",
+      "category": "Soups",
+      "cookTime": 35,
+      "ingredients": [
+        "chicken",
+        "carrots",
+        "celery",
+        "onion",
+        "noodles",
+        "chicken broth",
+        "salt",
+        "pepper"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Greek Salad",
+      "price": 6.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/13-greek-salad.jpg",
+      "description": "Fresh Greek salad with tomatoes, cucumbers, feta, and olives.",
+      "category": "Salads",
+      "cookTime": 10,
+      "ingredients": [
+        "tomatoes",
+        "cucumber",
+        "red onion",
+        "feta cheese",
+        "olives",
+        "olive oil",
+        "oregano"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Caesar Salad",
+      "price": 7.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/14-caesar-salad.jpg",
+      "description": "Classic Caesar salad with chicken, croutons, and parmesan.",
+      "category": "Salads",
+      "cookTime": 15,
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "chicken",
+        "caesar dressing",
+        "lemon juice"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Beef Burger",
+      "price": 9.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/15-beef-burger.jpg",
+      "description": "Juicy beef burger with lettuce, tomato, cheese, and pickles.",
+      "category": "Burgers",
+      "cookTime": 20,
+      "ingredients": [
+        "beef patty",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "cheese",
+        "pickles",
+        "ketchup",
+        "mustard"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Vegetarian Burger",
+      "price": 8.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/16-vegetarian-burger.jpg",
+      "description": "Vegetarian burger with fresh veggies and tasty sauce.",
+      "category": "Burgers",
+      "cookTime": 20,
+      "ingredients": [
+        "vegetable patty",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "cheese",
+        "pickles",
+        "ketchup",
+        "mustard"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Cake with Frosting",
+      "price": 5.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/17-cake-with-frosting.jpg",
+      "description": "Soft cake covered in sweet frosting, perfect for dessert.",
+      "category": "Desserts",
+      "cookTime": 60,
+      "ingredients": [
+        "flour",
+        "sugar",
+        "eggs",
+        "butter",
+        "milk",
+        "vanilla",
+        "baking powder",
+        "frosting"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Berry Cheesecake",
+      "price": 6.2,
+      "image": "https://george-fx.github.io/mesio-data/dishes/18-berry-cheesecake.jpg",
+      "description": "Cheesecake with fresh berries and a crispy graham crust.",
+      "category": "Desserts",
+      "cookTime": 70,
+      "ingredients": [
+        "cream cheese",
+        "sugar",
+        "eggs",
+        "berries",
+        "graham crackers",
+        "butter",
+        "vanilla"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Cold Lemonade",
+      "price": 3.5,
+      "image": "https://george-fx.github.io/mesio-data/dishes/19-cold-lemonade.jpg",
+      "description": "Refreshing cold lemonade with mint and ice.",
+      "category": "Drinks",
+      "cookTime": 5,
+      "ingredients": ["lemon", "water", "sugar", "ice", "mint"]
+    },
+    {
+      "id": 20,
+      "name": "Cappuccino",
+      "price": 3.0,
+      "image": "https://george-fx.github.io/mesio-data/dishes/20-cappuccino.jpg",
+      "description": "Classic cappuccino with rich espresso and milk foam.",
+      "category": "Drinks",
+      "cookTime": 5,
+      "ingredients": ["espresso", "milk", "milk foam"]
+    }
+  ]
+}
