@@ -8,6 +8,7 @@
       "description": "Creamy mushroom soup with fresh herbs and a rich flavor.",
       "category": "Soups",
       "cookTime": 30,
+      "weight": 350,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -29,6 +30,7 @@
       "description": "Light chicken noodle soup with vegetables, perfect for any time.",
       "category": "Soups",
       "cookTime": 25,
+      "weight": 400,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -50,6 +52,7 @@
       "description": "Classic Japanese ramen with pork, egg, and fresh toppings.",
       "category": "Asian Soups",
       "cookTime": 40,
+      "weight": 450,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -71,6 +74,7 @@
       "description": "Traditional Japanese miso soup with tofu and seaweed.",
       "category": "Asian Soups",
       "cookTime": 15,
+      "weight": 300,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -89,6 +93,7 @@
       "description": "Hearty Italian vegetable soup with beans and pasta.",
       "category": "Soups",
       "cookTime": 35,
+      "weight": 420,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -112,6 +117,7 @@
       "description": "Refreshing Spanish cold soup made from fresh vegetables.",
       "category": "Cold Soups",
       "cookTime": 20,
+      "weight": 250,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -134,6 +140,7 @@
       "description": "Traditional Eastern European beet soup with cabbage and sour cream.",
       "category": "Soups",
       "cookTime": 50,
+      "weight": 380,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -155,6 +162,7 @@
       "description": "Rich French onion soup with melted gruyere cheese and baguette.",
       "category": "Soups",
       "cookTime": 45,
+      "weight": 360,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -175,6 +183,7 @@
       "description": "Nutritious lentil soup with vegetables and spices.",
       "category": "Soups",
       "cookTime": 30,
+      "weight": 370,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -196,6 +205,7 @@
       "description": "Spicy Thai soup with shrimp, mushrooms, and aromatic herbs.",
       "category": "Asian Soups",
       "cookTime": 30,
+      "weight": 400,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -218,6 +228,7 @@
       "description": "Delicate cream soup with potatoes and onions.",
       "category": "Soups",
       "cookTime": 25,
+      "weight": 330,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -238,6 +249,7 @@
       "description": "Classic chicken soup with noodles and vegetables.",
       "category": "Soups",
       "cookTime": 35,
+      "weight": 390,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -259,6 +271,7 @@
       "description": "Fresh Greek salad with tomatoes, cucumbers, feta, and olives.",
       "category": "Salads",
       "cookTime": 10,
+      "weight": 280,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -279,6 +292,7 @@
       "description": "Classic Caesar salad with chicken, croutons, and parmesan.",
       "category": "Salads",
       "cookTime": 15,
+      "weight": 320,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -298,6 +312,7 @@
       "description": "Juicy beef burger with lettuce, tomato, cheese, and pickles.",
       "category": "Burgers",
       "cookTime": 20,
+      "weight": 450,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -320,6 +335,7 @@
       "description": "Vegetarian burger with fresh veggies and tasty sauce.",
       "category": "Burgers",
       "cookTime": 20,
+      "weight": 420,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -342,6 +358,7 @@
       "description": "Soft cake covered in sweet frosting, perfect for dessert.",
       "category": "Desserts",
       "cookTime": 60,
+      "weight": 150,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -363,6 +380,7 @@
       "description": "Cheesecake with fresh berries and a crispy graham crust.",
       "category": "Desserts",
       "cookTime": 70,
+      "weight": 180,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -383,6 +401,7 @@
       "description": "Refreshing cold lemonade with mint and ice.",
       "category": "Drinks",
       "cookTime": 5,
+      "weight": 400,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": ["lemon", "water", "sugar", "ice", "mint"]
@@ -395,6 +414,7 @@
       "description": "Classic cappuccino with rich espresso and milk foam.",
       "category": "Drinks",
       "cookTime": 5,
+      "weight": 200,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": ["espresso", "milk", "milk foam"]
