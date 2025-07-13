@@ -9,6 +9,7 @@
       "category": "Soups",
       "cookTime": 30,
       "weight": 350,
+      "rating": 4.5,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -31,6 +32,7 @@
       "category": "Soups",
       "cookTime": 25,
       "weight": 400,
+      "rating": 4.2,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -53,6 +55,7 @@
       "category": "Asian Soups",
       "cookTime": 40,
       "weight": 450,
+      "rating": 4.8,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -75,6 +78,7 @@
       "category": "Asian Soups",
       "cookTime": 15,
       "weight": 300,
+      "rating": 4.3,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -94,6 +98,7 @@
       "category": "Soups",
       "cookTime": 35,
       "weight": 420,
+      "rating": 4.4,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -118,6 +123,7 @@
       "category": "Cold Soups",
       "cookTime": 20,
       "weight": 250,
+      "rating": 4.1,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -141,6 +147,7 @@
       "category": "Soups",
       "cookTime": 50,
       "weight": 380,
+      "rating": 4.3,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -163,6 +170,7 @@
       "category": "Soups",
       "cookTime": 45,
       "weight": 360,
+      "rating": 4.7,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -184,6 +192,7 @@
       "category": "Soups",
       "cookTime": 30,
       "weight": 370,
+      "rating": 4.0,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -206,6 +215,7 @@
       "category": "Asian Soups",
       "cookTime": 30,
       "weight": 400,
+      "rating": 4.6,
       "isPopular": true,
       "isRecommended": false,
       "ingredients": [
@@ -229,6 +239,7 @@
       "category": "Soups",
       "cookTime": 25,
       "weight": 330,
+      "rating": 3.8,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -250,6 +261,7 @@
       "category": "Soups",
       "cookTime": 35,
       "weight": 390,
+      "rating": 4.1,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -272,6 +284,7 @@
       "category": "Salads",
       "cookTime": 10,
       "weight": 280,
+      "rating": 4.2,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -293,6 +306,7 @@
       "category": "Salads",
       "cookTime": 15,
       "weight": 320,
+      "rating": 4.4,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -313,6 +327,7 @@
       "category": "Burgers",
       "cookTime": 20,
       "weight": 450,
+      "rating": 4.3,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -336,6 +351,7 @@
       "category": "Burgers",
       "cookTime": 20,
       "weight": 420,
+      "rating": 3.9,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -359,6 +375,7 @@
       "category": "Desserts",
       "cookTime": 60,
       "weight": 150,
+      "rating": 4.0,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -381,6 +398,7 @@
       "category": "Desserts",
       "cookTime": 70,
       "weight": 180,
+      "rating": 4.5,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": [
@@ -402,6 +420,7 @@
       "category": "Drinks",
       "cookTime": 5,
       "weight": 400,
+      "rating": 3.7,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": ["lemon", "water", "sugar", "ice", "mint"]
@@ -415,6 +434,7 @@
       "category": "Drinks",
       "cookTime": 5,
       "weight": 200,
+      "rating": 4.2,
       "isPopular": false,
       "isRecommended": true,
       "ingredients": ["espresso", "milk", "milk foam"]
