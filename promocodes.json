@@ -2,7 +2,7 @@
   "promocodes": [
     {
       "id": 1,
-      "name": "KFC",
+      "name": "McDonald's",
       "code": "PROMO2025FX",
       "discount": 25,
       "expiresAt": "August 30, 2026",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Domino’s Pizza",
+      "name": "Burger King",
       "code": "SAVE4YOU25",
       "discount": 40,
       "expiresAt": "August 9, 2025",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Burger King",
+      "name": "Domino's Pizza",
       "code": "BONUSJULY10",
       "discount": 30,
       "expiresAt": "October 4, 2025",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "mcdonalds",
+      "name": "KFC",
       "code": "FXSUMMER25",
       "discount": 50,
       "expiresAt": "August 30, 2025",
